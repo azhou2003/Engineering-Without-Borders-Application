@@ -25,7 +25,7 @@ This code has been run and tested on:
 
 Dowload this code repository by using git:
 
-`git clone https://github.com/tysanders-tamu/border-502-project.git`
+`git clone https://github.com/azhou2003/Engineering-Without-Borders-Application.git`
 
 ## _Tests_
 
